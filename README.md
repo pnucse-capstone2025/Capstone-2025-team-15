@@ -126,8 +126,8 @@ floodlight.io 라이브러리를 사용할 때 파이썬 버전 충돌이 일어
 ### 8. 참고 문헌 및 출처
 
 **데이터 출처**: 본 프로젝트는 다음 논문에서 제공하는 공개 축구 트래킹 데이터를 활용합니다.  
-> Bassek, M., Rein, R., Weber, H., & Memmert, D. (2025). *An integrated dataset of spatiotemporal and event data in elite soccer*. *Scientific Data*, 12(1), 195.
-> [Metrica sports IO code](https://github.com/metrica-sports/sample-data)
+> -  Bassek, M., Rein, R., Weber, H., & Memmert, D. (2025). *An integrated dataset of spatiotemporal and event data in elite soccer*. *Scientific Data*, 12(1), 195.
+> - [Metrica sports IO code](https://github.com/metrica-sports/sample-data)
 
 ---
 
