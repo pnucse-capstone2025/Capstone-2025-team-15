@@ -53,7 +53,7 @@
 |FM 인게임 이미지 처리|image_processing/cropping |OpenCV기반 25fps 이미지 캡쳐 및 cropping.|
 |FM 인게임 데이터 추출|movement2cords, interpolating, filter, ball2cord|선수: OpenCV기반 객체 탐지 및 interpolating, 공: Yolov8 탐지|
 |모델학습 데이터셋|data_processing, visualization|Floodlight.io.dfl 기반 xml data 처리 프로세스|
-|모델 설계 및 시각화|ball_dat, ball_state_viz, model/train_val|Transformer 기반 모델 설계 및 시각화 plot|
+|모델 설계 및 시각화|ball_data, ball_state_viz, model/train_val|Transformer 기반 모델 설계 및 시각화 plot|
 
 #### 4.3. 디렉토리 구조
 ```
