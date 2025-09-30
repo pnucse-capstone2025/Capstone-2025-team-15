@@ -108,7 +108,7 @@ floodlight.io 라이브러리를 사용할 때 파이썬 버전 충돌이 일어
 
 ### 6. 소개 자료 및 시연 영상
 #### 6.1. 프로젝트 소개 자료
-> [PPT]()
+> [PPT](https://github.com/pnucse-capstone2025/Capstone-2025-team-15/blob/main/docs/03.%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/fm%EB%A7%88%EC%8A%A4%ED%84%B0_%EB%B0%9C%ED%91%9C.pptx)
 
 #### 6.2 프로젝트 홍보 영상
 [![2025 전기 졸업과제 15 fm마스터](http://img.youtube.com/vi/DlT91KUyxKE/3.jpg)](https://www.youtube.com/watch?v=DlT91KUyxKE)    
